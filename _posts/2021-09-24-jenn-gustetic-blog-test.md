@@ -1,3 +1,4 @@
+----
 date: 2021/09/24
 layout: post
 permalink: /blog/2021-09-24-Jenn-Gustetic-blog-test/
@@ -30,7 +31,7 @@ And then, I came back to NASA in 2016. I stayed in the innovation world but with
 #### Jarah Meador
 We're excited as a community to have you in this role. You've spent a good part of your career working on increasing the use of innovative approaches to advance federal agency missions at various levels. Can you share your insights on the early days of prize competitions and the impact of the passage of the America COMPETES Reauthorization Act?
 
-Jenn Gustetic
+#### Jenn Gustetic
 I first joined NASA around the time that the America COMPETES Act passed. NASA had been using prize competitions for years before that because it had a special authority, the Space Act, that allowed it to conduct prizes under certain conditions. From NASA to DARPA and others, there were pockets around the government that experimented with various authorities.
 
 When I joined NASA, the America COMPETES Act—plus this experimentation that agencies had been doing on their own—acted like lighter fluid for the agencies looking to find new mechanisms that would allow them to try to pay only for performance or outcomes. There was a keen interest at the highest levels of government, and the COMPETES Act came when there was an interest in pursuing problem-solving that way.
@@ -41,10 +42,10 @@ And so, in reflection on the more than 10 years since the passage of the America
 
 One area that is also particularly promising is to see the Hill’s continued interest in crafting and including a specific desire for prizes at the agencies they oversee to solve problems that are important to bring new ideas to the table. Over recent years, there are so many examples where particular bills have authorized new prize programs or where Congress has appropriated new prize funds. The interest for this tool is truly a bipartisan approach to engaging more folks in sourcing innovation to solve some of our nation's most pressing problems.
 
-Jarah Meador
+#### Jarah Meador
 You've written about the eight common challenges to scaling innovation. The critical elements that you presented ranged from policy framework, infrastructure, platforms, knowledge sharing, and a focus on impact assessment. With a decade of prize competitions behind us, and with more than 1,200 that have been posted on Challenge.Gov alone, do those common challenges still ring true to you? Or do you see some additional challenges that we're going to face?
 
-Jenn Gustetic
+#### Jenn Gustetic
 Two areas ring even more true now as areas where we need more work as a community. The first is around budget; the second is around skill development and community building.
 On budget, for example, many agencies still struggle with color of money issues. Meaning what money they have available, for how long, and the rules around how long they can hold on to that money for the particular purpose or prize competition.
 
@@ -60,12 +61,12 @@ Is it on those individuals to expand their toolset? Or do we centralize certain 
 
 That's one of the major barriers to scaling in my mind. What is the individual innovator's job to do? What is not? What expertise can they access elsewhere? And do they need to pay for it? This sentiment gets to the point earlier about budget, cost, and resources. There are challenges associated with timing, when there is the opportunity and when you have the resources to do it, which might not be at the same time. Then, determining how we do a better job at scaling the transfer of skills. Those are all complicated problems.
  
-Jarah Meador
+#### Jarah Meador
 Sage advice, Jenn, on how we can operationalize the use of prize competitions by lowering barriers around budget and also thinking about where centralized knowledge needs to live, whether inside a government agency or broadly across the ecosystem of federal agencies who work in innovation.
 
 I want to go back to what we were talking about earlier when you described your new role and how now you're working with the bevy of tools. Where do you see prize competitions and open innovation fitting in with your approach at NASA?
 
-Jenn Gustetic
+#### Jenn Gustetic
 We have several different approaches we use in NASA'S early-stage innovation and partnership portfolio. We are sourcing ideas from all over the country, whether that's universities, small businesses, large businesses, individual innovators, or makers. The beauty of the approaches in this portfolio is that we can source from anywhere.
 
 However, we've got different siloed approaches for sourcing through different programs. A challenge is how you create opportunities for partnership across sectors and how you create opportunities for transition between vehicles. What might be an on-ramp for one type of person or organization is not necessarily the place where they're going to get the continued support that they need to develop that technology, that capability, their company, or their idea to a place where it's real innovation and not just an invention. 
@@ -76,12 +77,12 @@ There is another major opportunity for improvement in the open innovation world 
 
 I would challenge the community to think about what those off-ramps could be and what barriers exist to those offramps. Streamlining efforts to reduce friction, whether legal, budget, etc, would be important. Prioritizing barriers those and working on some intentionally as a community would be a priority that would be important to continue making prizes more impactful moving forward. 
  
-Jarah Meador
+#### Jarah Meador
 I appreciate that answer and how you so clearly described the different tools or mechanisms for sourcing innovation.
 
 I have one more question to leave us with. What have prize competitions allowed agencies to accomplish in your experience that could not have been accomplished otherwise?
 
-Jenn Gustetic
+#### Jenn Gustetic
 There are many different ways in which prizes have benefits beyond the standard toolkit of the federal government. One of those benefits is access to people that you wouldn't otherwise access through a funded mechanism. Another benefit is specifying the outcome without paying for the work along the way; you only pay for results. 
 
 There has been an evolution in how we practice prizes. NASA has done this too, where we use a more milestone-based payment approach. Instead of getting to the big outcome, like a big $10 million XPRIZE-type outcome, we look for ways to break it up into stages and enable some funding along the way. That way, we can level the playing field in some ways for some people that might not be as resourced as the teams that can bear that amount of upfront investment. It allows people to participate and be rewarded along the way and demonstrate progress towards a goal. But we’re still only paying for results. They just might be more incremental results along the way. 
@@ -93,7 +94,7 @@ The America COMPETES Act offers the ability to co-fund prizes with partners outs
 
 I would challenge the community to think more ambitiously about leveraging partnerships and authorities that are available to all agencies through the use of COMPETES prize competitions. It's a huge opportunity, and we've seen a number of them, but not nearly as many as you would think, in part because of the budget and skills challenges that we've talked about earlier. I would say this is a great, largely unrealized, opportunity to get outcomes that you can't get with other tools.
 
-Jarah Meador
+#### Jarah Meador
 Thank you, Jenn. I appreciate you taking the time to share your insights. I look forward to continuing our collaboration and seeing where the future takes you in your role at NASA.
 
 
