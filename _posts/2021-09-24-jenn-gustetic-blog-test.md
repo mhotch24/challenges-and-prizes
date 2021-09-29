@@ -3,7 +3,7 @@ date: 2021/09/24
 layout: post
 permalink: /blog/2021-09-24-Jenn-Gustetic-blog-test/
 title: "Open Innovation under America COMPETES: reflections from Jenn Gustetic"
-tagline: A Spotlight Chat with members of the Lab to Market Inclusive Innovation Ecosystem Prize Competition. 
+tagline: An Interview with Jenn Gustetic from NASA on her experiences running federal prize competitions.
 excerpt: Jarah Meador, Director of Open Innovation at the General Services Administration and leader of Challenge.Gov, sat down with Jenn Gustetic, Director of Early Stage Innovations and Partnerships within NASA’s Space Technology Mission Directorate, to reflect on over 10 years of challenges and prize competitions under the America COMPETES Reauthorization Act.
 author: Kat Kempe
 image: 
