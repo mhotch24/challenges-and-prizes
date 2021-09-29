@@ -6,8 +6,8 @@ title: "Open Innovation under America COMPETES: reflections from Jenn Gustetic"
 tagline: A Spotlight Chat with members of the Lab to Market Inclusive Innovation Ecosystem Prize Competition. 
 excerpt: Jarah Meador, Director of Open Innovation at the General Services Administration and leader of Challenge.Gov, sat down with Jenn Gustetic, Director of Early Stage Innovations and Partnerships within NASA’s Space Technology Mission Directorate, to reflect on over 10 years of challenges and prize competitions under the America COMPETES Reauthorization Act.
 author: Kat Kempe
-image: assets/netlify-uploads/challenge-spotlight-chat-sba-title-card (1).png
-image_alt_text: Challenge and Prize Community Spotlight Chat with the Small Business Administration Insights from running the Lab-to-Market Inclusive Innovation Ecosystem Prize competition digital.gov
+image: 
+image_alt_text: 
 post-body-content-uploads: /assets/netlify-uploads/webp.net-resizeimage-1-.jpg
 ---
 Since the passage of the America COMPETES Reauthorization Act in 2010, the U.S. government has run over 1,200 prize competitions - engaging public solvers ranging from students and hobbyists to small business owners and academic researchers. 
