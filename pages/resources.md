@@ -59,7 +59,7 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
               <span><a href="https://www.challenge.gov/" target="_blank">Search Active Challenges</a></span>
             </div>
             <div class="text-center w-50 right-section">
-              <a href="https://www.challenge.gov/" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/challenge_details_page.svg" alt="contact button indication on challenge details page" title="Contact indication" /></a>
+              <a href="https://www.challenge.gov/" target="_blank"><img src="{{ site.baseurl }}/assets/images/icons/challenge_details_page.svg" alt="contact button indication on challenge details page" title="Contact indication" width="300" /></a>
             </div>
           </div>
         </div>
