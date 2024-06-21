@@ -14,19 +14,19 @@ Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solv
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
-        <h3 class="text-center mb-4 font-weight-bold">Resources for Public Innovators.</h3>
+        <h3 class="text-center mb-4 font-weight-bold">Resources for Public Innovators..test.</h3>
         <div class="card help-card p-4 my-5 mx-auto">
           <div class="d-flex flex-row justify-content-around mt-4 help-page__getting-started-content">
           <!-- FAQ -->
             <div class="col-md-6 text-center help-card__section">
-              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle"></i></a>
+              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-question-circle" style="color: #FA9441; font-size: 3em;></i></a>
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener"><h4 class="m-4">FAQs</h4></a>
               <p>Checkout out our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Solver_FAQ.pdf" target="_blank" rel="noopener">frequently asked questions</a> on prize competitions and crowdsourcing, and use of the Challenge.Gov platform.</p>
             </div>
             <span class="vr-light">&nbsp;</span>
           <!-- User -->
             <div class="text-center help-card__section">
-              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-tools"></i></a>
+              <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><i class="dashboard-card-icon fa fa-tools" style="color: #FA9441; font-size: 3em;></i></a>
               <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener"><h4 class="m-4">User Guide</h4></a>
               <p>Our <a href="{{ site.baseurl }}/assets/document-library/ChallengeGov_Public_Solver_User_Guide_Oct2021.pdf" target="_blank" rel="noopener">user guide</a> is full of useful information to help you get started.</p>
             </div>
